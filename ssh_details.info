@@ -1,0 +1,2 @@
+testuser1 192.168.1.7 private_key/user1.pem
+testuser2 192.168.1.5 private_key/user2.pem
