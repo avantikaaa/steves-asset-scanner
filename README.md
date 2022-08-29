@@ -1,4 +1,4 @@
-# REQUIREMENTS:
+# DEPENDENCIES:
 - Python3
 - Nmap
 - pymongo
@@ -7,8 +7,3 @@
 
 # HOW TO RUN:
   Command: "python3 application.py"
-
-
-# DEPENDENCIES:
-- pymongo: pip install pymongo
-- pymongo[srv]: pip install pymongo[srv]
