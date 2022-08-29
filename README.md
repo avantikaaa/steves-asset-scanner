@@ -9,6 +9,6 @@
   Command: "python3 application.py"
 
 
-# INSTALLATION:
+# DEPENDENCIES:
 - pymongo: pip install pymongo
 - pymongo[srv]: pip install pymongo[srv]
